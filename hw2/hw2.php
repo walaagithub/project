@@ -135,7 +135,7 @@
                                <div class="hb6"><p>title</p></div>
                             <a href="" ><img src="http://placehold.it/320x150" alt=""></a>
                                <div class="db6">
-                                 <p>Buy 50 jjfllfhdj kjkdj</p>   
+                                 <p>Buy Car</p>   
                               </div>
                            
                          </div>
