@@ -1,0 +1,123 @@
+.jumbotron{
+    position: relative;
+    padding:0 !important;
+    margin-top:0px !important;
+    background: #eee;
+    margin-top:1px;
+    text-align:center;
+    margin-bottom:0 !important;
+}
+.main
+{
+     
+}
+
+
+.row .thumbnail1,.row .thumbnail2,.row .thumbnail3,.row .thumbnail4,.row .thumbnail5,.row .thumbnail6 {
+    
+    border-radius:4px;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.thumb
+{
+    text-align: center;
+    margin: 0px -370px -9px 300px;
+}
+.thumbnail1 img,.thumbnail2 img,.thumbnail3 img,.thumbnail4 img,.thumbnail5 img,.thumbnail6 img {
+    width: 95%;
+}
+.hb1,.hb2,.hb3,.hb4,.hb5,.hb6
+{
+     padding-top: 5px;
+    padding-left: 5px;
+    text-align: left;
+    height: 40px;
+    margin: 0px 0px 3px 0px;
+}
+.db1,.db2,.db3,.db4,.db5,.db6 
+{
+    padding-top: 5px;
+    padding-left: 5px;
+    text-align: left;
+     height: 40px;
+    margin: 3px 0px 0px 0px;
+    background-color: #eee;
+}
+
+.row .thumbnail1
+{
+    border:3px solid blue;
+}
+.hb1
+{
+    background-color: blue;
+}
+
+
+.row .thumbnail2
+{
+    border:3px solid green;
+}
+
+.hb2
+{
+    background-color: green;
+}
+.row .thumbnail3
+{
+    border:3px solid Fuchsia ;
+}
+
+.hb3
+{
+    background-color: Fuchsia ;
+}
+.row .thumbnail4
+{
+    border:3px solid LightSalmon;
+}
+
+.hb4
+{
+    background-color: LightSalmon;
+}
+.row .thumbnail5
+{
+    border:3px solid Sienna ;
+}
+
+.hb5
+{
+    background-color: Sienna ;
+}
+.row .thumbnail6
+{
+    border:3px solid Turquoise ;
+}
+
+.hb6
+{
+    background-color: Turquoise ;
+}
+
+
+
+
+
+
+
+.footer
+{
+    text-align: center;
+    color: black;
+  position: absolute;
+  bottom: -20px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 70px;
+  line-height: 30px; /* Vertically center the text there */
+  background-color:#eee;
+}
